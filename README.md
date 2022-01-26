@@ -10,7 +10,7 @@ terdapat 4 user dalam sistem ini :
 
 sistem ini dapat anda split menjadi dua sistem yakni :
 1. sistem e-rapor
-2. sistem ppdb online/offline
+2. sistem PPDB (penerimaan peserta didik baru) online/offline
 
 anda dapat menggunakan sistem ini secara open source dan jika anda mendapat kendala dalam pengembangan anda dapat mempelajari kembali librarry CI yang saya buat
 saya dengan senang hati akan membantu anda memecahakan masalah anda dalam pengembangan lebih lanjut terkait project
